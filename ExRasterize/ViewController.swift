@@ -16,6 +16,9 @@ class CustomView: UIView {
          trianglePath.close()
 
          let fillColor = UIColor.red
+        
+        
+        
          fillColor.setFill()
 
          trianglePath.fill()
